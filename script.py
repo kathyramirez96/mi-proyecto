@@ -1,9 +1,8 @@
 # Script de prueba para Git
-# Autor: Katherine RamÃ­rez <kramirezv@est.ups.edu.ec>
+# Autor: Katherine Ramírez <kramirezv@est.ups.edu.ec>
 # Fecha: 02-07-2020
-# VersiÃ³n: 1.0.0
+# Versión: 1.0.0
 def main ():
-	nombre = input( "CuÃ¡l es tu nombre? " )
-        print("Hola ",nombre, "Bienvenido a Git!")
+	print ( "Hola Mundo!" )
 if __name__ == "__main__" :
-    main()
+	main()
